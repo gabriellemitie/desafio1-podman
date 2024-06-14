@@ -4,7 +4,7 @@
 
 1. Baixando a imagem   
 `podman pull quay.io/redhattraining/httpd-parent:2.4` -> onde imagem:tag_imagem  
-!![alt text](./terminal_images/image-1.png)
+![alt text](./terminal_images/image-1.png)
 
 2. Verificando na lista de imagens  
 `podman images`  
